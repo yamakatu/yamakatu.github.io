@@ -4,7 +4,7 @@
   <title><![CDATA[Yamakatu as a Service]]></title>
   <link href="http://yamakatu.github.io/atom.xml" rel="self"/>
   <link href="http://yamakatu.github.io/"/>
-  <updated>2014-12-02T02:07:04+09:00</updated>
+  <updated>2014-12-02T02:21:10+09:00</updated>
   <id>http://yamakatu.github.io/</id>
   <author>
     <name><![CDATA[yamakatu]]></name>
@@ -18,7 +18,10 @@
     <link href="http://yamakatu.github.io/blog/2014/12/01/taisyoku/"/>
     <updated>2014-12-01T23:44:47+09:00</updated>
     <id>http://yamakatu.github.io/blog/2014/12/01/taisyoku</id>
-    <content type="html"><![CDATA[<br/>
+    <content type="html"><![CDATA[<!-- more -->
+
+
+<br/>
 
 
 <p>しました。</p>
