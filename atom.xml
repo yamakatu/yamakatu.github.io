@@ -4,7 +4,7 @@
   <title><![CDATA[Yamakatu as a Service]]></title>
   <link href="http://yamakatu.github.io/atom.xml" rel="self"/>
   <link href="http://yamakatu.github.io/"/>
-  <updated>2015-01-03T12:44:47+09:00</updated>
+  <updated>2015-01-11T17:50:05+09:00</updated>
   <id>http://yamakatu.github.io/</id>
   <author>
     <name><![CDATA[yamakatu]]></name>
@@ -12,6 +12,31 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[2015年の目標]]></title>
+    <link href="http://yamakatu.github.io/blog/2015/01/11/2015/"/>
+    <updated>2015-01-11T17:40:48+09:00</updated>
+    <id>http://yamakatu.github.io/blog/2015/01/11/2015</id>
+    <content type="html"><![CDATA[<!-- more -->
+
+
+<br/>
+
+
+<p>忘れないうちに書いておく。</p>
+
+<p>優先度順</p>
+
+<ul>
+<li>風邪を引かない</li>
+<li>脱稿</li>
+<li>統計検定1級</li>
+<li>TOEICスコア800</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[転職しますた]]></title>
@@ -1893,63 +1918,6 @@
 <p>お詫びして訂正します。</p>
 
 <p>#一番最初にドキュメント数を極小で試したのですが、その時のドキュメント数とシャード数が同じだったようです。。</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第4回Elasticsearch勉強会で発表してきました]]></title>
-    <link href="http://yamakatu.github.io/blog/2014/04/24/es04/"/>
-    <updated>2014-04-24T02:00:10+09:00</updated>
-    <id>http://yamakatu.github.io/blog/2014/04/24/es04</id>
-    <content type="html"><![CDATA[<!-- more -->
-
-
-<br/>
-
-
-<p><a href="http://elasticsearch.doorkeeper.jp/events/8865">第4回Elasticsearch勉強会</a>で発表してきました。</p>
-
-<br/>
-
-
-<p>Kibanaなんかと比較し、これまであまり注目されることのなかったelasticsearch-hadoopが不憫すぎたので、elasticsearch-hadoopについて話してきました。</p>
-
-<br/>
-
-
-<p>当日の夕方ぐらいから下痢が始まって、自分の前の <a href="https://twitter.com/johtani">@johtani</a> さんの発表中にもトイレに駆け込んだんですが、なんとか発表中は中身を出さずにすみました。</p>
-
-<p>100人を超える参加者だったので、緊張するかなーとおもっていましたが、下痢でそれどこではなかったので、力が抜けていいかんじに発表できました。</p>
-
-<p>ちなみにこれを下痢駆動発表と呼ぶらしいです。</p>
-
-<blockquote class="twitter-tweet" lang="ja"><p>下痢かつさんの下痢駆動発表</p>&mdash; ノートハエ・ノーライフ (@tohae) <a href="https://twitter.com/tohae/statuses/458516157683601408">2014, 4月 22</a></blockquote>
-
-
-<script async src="http://yamakatu.github.io//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-<br/>
-
-
-<p>みなさんも一度、試してみてはいかがでしょうか。</p>
-
-<br/>
-
-
-<p>・<a href="http://dev.classmethod.jp/server-side/4th-elasticsearchjp/">クラスメソッドさんまとめ</a></p>
-
-<p>・<a href="http://blog.johtani.info/blog/2014/04/21/hold-on-4th-elasticsearch-jp/">大谷さんまとめ</a></p>
-
-<br/>
-
-
-
-
-<iframe src="http://www.slideshare.net/slideshow/embed_code/33755795" width="597" height="486" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px 1px 0; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
-
-
-<p> <div style="margin-bottom:5px"> <strong> <a href="https://www.slideshare.net/yamakatu/elasticsearchhadoop" title="elasticsearch-hadoopをつかってごにょごにょしてみる" target="_blank">elasticsearch-hadoopをつかってごにょごにょしてみる</a> </strong> from <strong><a href="http://www.slideshare.net/yamakatu" target="_blank">Katsushi Yamashita</a></strong> </div></p>
 ]]></content>
   </entry>
   
